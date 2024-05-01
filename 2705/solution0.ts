@@ -27,3 +27,4 @@ function compactObject(obj: Obj): Obj {
   }
   return result;
 };
+
